@@ -14,4 +14,4 @@ mykeys = []
 for key in mydict.keys():
     mykeys.append(key)
     
-print(bool(mydict))
+print('bool(mydict) = ', bool(mydict))
