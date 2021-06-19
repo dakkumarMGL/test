@@ -17,3 +17,5 @@ for key in mydict.keys():
 print('bool(mydict) = ', bool(mydict))
 
 mydict = {'a': 10, 'b': 11}
+
+# This is a comment added for feature #1
