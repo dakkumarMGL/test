@@ -15,3 +15,5 @@ for key in mydict.keys():
     mykeys.append(key)
     
 print('bool(mydict) = ', bool(mydict))
+
+mydict = {'a': 10, 'b': 11}
